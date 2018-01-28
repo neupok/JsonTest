@@ -1,0 +1,121 @@
+{
+  "Metadata": [],
+  "Columns": [
+    {
+      "ID": "Short?"
+    },
+    {
+      "RATING_ID": "Int64"
+    },
+    {
+      "CODE_NAME": "String?"
+    },
+    {
+      "AGENCY": "String?"
+    },
+    {
+      "FULLNAME_RUS": "String?"
+    },
+    {
+      "FULLNAME_ENG": "String?"
+    },
+    {
+      "FOR_INSTRUMENT": "Short"
+    },
+    {
+      "FOR_COMPANY": "Short"
+    },
+    {
+      "AGENCY_ENG": "String?"
+    },
+    {
+      "OFFICIAL_NAME": "String?"
+    },
+    {
+      "IS_CREDIT": "Short"
+    },
+    {
+      "TERM_TYPE": "String?"
+    },
+    {
+      "TERM_TYPE_NAME": "String?"
+    },
+    {
+      "CURRENCY_TYPE": "String?"
+    },
+    {
+      "CURRENCY_TYPE_NAME": "String?"
+    },
+    {
+      "SCALE_TYPE": "String?"
+    },
+    {
+      "SCALE_TYPE_NAME": "String?"
+    },
+    {
+      "IS_ARCHIVE": "Short?"
+    },
+    {
+      "IS_ACCRED_BR": "Short?"
+    },
+    {
+      "DOC_511P": "String?"
+    },
+    {
+      "DOC_421P": "String?"
+    },
+    {
+      "DOC_180I": "String?"
+    }
+  ],
+  "Rows": [
+    [
+      "134",
+      "104",
+      "MDS-B-Cr&D-LT-KZsc",
+      "Мудиз",
+      "Рейтинг банковских депозитов, долгосрочный, Казахстанская шкала",
+      "Bank deposit ratings, long-term, kazakhstan scale",
+      "0",
+      "1",
+      "Moody's",
+      "LT Bank Deposits (kaz)",
+      "1",
+      "L",
+      "Долгосрочный рейтинг",
+      "L",
+      "Рейтинг в национальной валюте",
+      "N",
+      "Рейтинг по национальной шкале",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "135",
+      "109",
+      "MDS-B-Cr&D-LT-UAsc",
+      "Мудиз",
+      "Рейтинг банковских депозитов, долгосрочный, Украинская шкала",
+      "Bank deposit ratings, long-term, ukrainian scale",
+      "0",
+      "1",
+      "Moody's",
+      "LT Bank Deposits (ukr)",
+      "1",
+      "L",
+      "Долгосрочный рейтинг",
+      "L",
+      "Рейтинг в национальной валюте",
+      "N",
+      "Рейтинг по национальной шкале",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0"
+    ]
+  ]
+}
